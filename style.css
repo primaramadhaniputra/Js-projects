@@ -1,0 +1,17 @@
+.container-paraghraph{
+   font-size: 20px;
+   padding: 10px;
+   text-transform: uppercase;
+   font-weight: 400;
+   color: rgb(34, 100, 100);
+}
+
+.div-card{
+   width: 30%;
+   margin: auto;
+   
+}
+button{
+   margin-top: 50px;
+   
+}
